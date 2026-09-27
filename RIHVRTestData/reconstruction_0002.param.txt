@@ -1,0 +1,10 @@
+start_plane_z          0
+plane_step_dz          0.24um
+num_planes             125
+wavelength             0.405um
+resolution             0.08um
+zero_padding           0
+inverse_iterations     30
+regularization_tau     0.1
+regularization_TV      0.1
+num_TV_iterations      5
